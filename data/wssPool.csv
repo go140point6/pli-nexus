@@ -1,0 +1,6 @@
+mn_address,is_syncing,rank,duration,trust
+wss://eaws.xinfin.network,true,null,null,false
+wss://ews.xinfin.network,true,null,null,false
+wss://ws.xinfin.network,true,null,null,false
+wss://wss-mainnet.go140point6.com,true,null,null,false
+wss://ws.11ppm.com,true,null,null,false
